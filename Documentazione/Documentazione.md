@@ -10,7 +10,7 @@
 **Docente responsabile** | A. Barchi & L. Muggiasca
 
 ##Indice
-[1. Introduzione](https://github.com/diSumma/Case-Arduino/blob/master/Documentazione/Documentazione.md#prova)
+[1. Introduzione](https://github.com/diSumma/Case-Arduino/blob/master/Documentazione/Documentazione.md#user-content-prova)
 
 #ciao
 #ciao
