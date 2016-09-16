@@ -1,6 +1,6 @@
 #Documentazione relativa al case per l'Arduino
 
-
+ | 
 ------------ | -------------
 *Titolo del progetto* | Documentazione per il case dell'Arduino
 *Alunno* | Riccardo di Summa
