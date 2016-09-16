@@ -41,6 +41,6 @@
 #ciao
 #ciao
 #ciao
-<span id="prova">
+<div id="prova">
 cids
-</span>
+</div>
