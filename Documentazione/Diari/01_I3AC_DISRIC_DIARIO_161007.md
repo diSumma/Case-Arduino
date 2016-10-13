@@ -17,6 +17,6 @@ Nelle ore del pomeriggio abbiamo iniziato a prepare il case tagliando il legno, 
 ## Programma di massima per la prossima giornata
 Nella prossima giornata di lavoro c'è da finire di tagliare il legno, le parti da concludere sono:
 1. Il blocco posteriore, devo ancora intagliarlo e bucarlo.
-1. Le due pareti laterali, che sono intagliate ma devo bucarle per permettere l'uscita delle prolunghe dei pin.
-1. Mettere tutte le parti in compensato insieme utilizzando la colla per il legno e in seguito avvitarle per avere una maggiore stabilità.
-1. Incollare i due magneti sul blocco del coperchio.
+- Le due pareti laterali, che sono intagliate ma devo bucarle per permettere l'uscita delle prolunghe dei pin.
+- Mettere tutte le parti in compensato insieme utilizzando la colla per il legno e in seguito avvitarle per avere una maggiore stabilità.
+- Incollare i due magneti sul blocco del coperchio.
